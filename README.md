@@ -11,7 +11,7 @@
 
 
 -  🔭 I'm currently a participant of LGM-SOC'21
--  🔭 I was a participant of GSSoC'21
+-  🔭 I was a participant of GSSoC'21 and secured 88 position out of 1300+ participants.
 - 🌱 I’m currently learning **Competitive programming,Android Development,Web Development.**
 
 
