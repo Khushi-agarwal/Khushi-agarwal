@@ -10,7 +10,8 @@
 <h3 align="center">An Open-source Enthusiast</h3>
 
 
--  🔭 I’m currently a participant of GSSoC'21
+-  🔭 I'm currently a participant of LGM-SOC'21
+-  🔭 I was a participant of GSSoC'21
 - 🌱 I’m currently learning **Competitive programming,Android Development,Web Development.**
 
 
